@@ -1,3 +1,9 @@
+# #for example
+# someone = "Harry"
+# #few ways to do ===>
+# print("Say hi to " + someone)
+# print("Say hi to {}".format(someone))
+# print(f"Say hi to {someone}")
 
 Season = input("Enter a Season: ")
 auxiliary_verb = input("Enter a auxiliary verb: ")
